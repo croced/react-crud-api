@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "Refactoring Stream!",
+      "description": "This stream has been made after our StreamForm refactor!",
+      "userId": "117457482283194216680",
+      "id": 7
+    },
+    {
+      "title": "It's coming Rome",
+      "description": "Footballs has come Rome!",
+      "userId": "117457482283194216680",
+      "id": 8
+    }
+  ]
+}
